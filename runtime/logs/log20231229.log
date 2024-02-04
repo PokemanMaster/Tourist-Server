@@ -1,0 +1,2 @@
+[INFO][redis_init.go:22]2023/12/29 15:43:04 [dial tcp 192.168.127.174:6379: i/o timeout]
+[INFO][redis_init.go:22]2023/12/29 15:48:56 [dial tcp 192.168.127.174:6379: i/o timeout]
