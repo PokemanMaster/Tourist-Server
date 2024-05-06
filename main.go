@@ -14,5 +14,5 @@ func main() {
 	// 路由连接
 	router := route.CollectRoute()
 	//端口号启动在9000端口
-	panic(router.Run(":9000"))
+	panic(router.Run(":3000"))
 }
