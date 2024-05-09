@@ -46,7 +46,7 @@ server/
 
 ## 运行
 ```
-git clone https://github.com/PokemanMaster/Tourist-Web/server.git
+git clone https://github.com/PokemanMaster/tourist-server.git
 cd server
 go run main.go
 ```
