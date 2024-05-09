@@ -4,6 +4,9 @@
 
 本人准备大四，拿这个项目学习一些新的技能，如果有错误或者实现不好的地方欢迎 issues
 如果觉得这个项目不错，您可以右上角 Star 支持一下！谢谢您的支持，您的支持是我完善的动力！
+项目运行后启动在 3000 端口
+前端项目地址: https://github.com/PokemanMaster/tourist-client
+项目是前后端的项目
 
 ## 项目依赖
 本项目采用了一系列 golang 中比较流行的组件来进行开发
@@ -50,4 +53,3 @@ git clone https://github.com/PokemanMaster/tourist-server.git
 cd server
 go run main.go
 ```
-项目运行后启动在 3000 端口
