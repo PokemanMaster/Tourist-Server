@@ -1,4 +1,4 @@
-# tourist-server 电子商城
+# tourist-server 旅游网商城
 
 ## 前言
 
